@@ -1,0 +1,290 @@
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(104, 104, 104);
+    border-radius: 50px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c5c3c3;
+  }
+  .nav_bar{
+    position: relative;
+    position: absolute;
+    height: 60px;
+    width: 500px;
+    margin-top: -60px;
+    margin-left: 420px;
+}
+  .home{
+    font-family: 'Be Vietnam Pro';
+    font-size: xx-large;
+    padding-right: 15px;
+    margin-top: 15px;
+    position: relative;
+    position: absolute;
+  }
+  .home:hover{
+    border-bottom: solid white 0.1cm;
+  }
+  .My_websites{
+    font-family: 'Be Vietnam Pro';
+    font-size: xx-large;
+    position: relative;
+    position: absolute;
+    width: 250px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-left: 105px;
+  }
+  .My_websites:hover{
+    border-bottom: solid white 0.1cm;
+  }
+  .section_3{
+    background-image: url(https://i2.wp.com/5ergiveaways.com/wp-content/uploads/2017/07/BG.png?fit=2560%2C1440&ssl=1);
+  }
+h1 {
+    text-align: center;
+    font-family: 'Anybody';
+    padding-top: 20%;
+    background-size: contain;
+    color: rgb(255, 255, 255);
+    background-size: 200px 200px;
+    font-size: xxx-large;
+    background-size: 50px auto 0px auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: xxx-large;
+    padding: 0%;
+}
+
+.my_info {
+    background-color: white;
+    color: white;
+    font-size: xxx-large;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 1400px 1000px;
+    height: 1000px;
+    height: 500px;
+    z-index: 100;
+    margin-top: 25px;
+    margin-bottom: 0;
+    border-top: solid rgba(0, 0, 0, 0.619) 1cm;
+    background-image: url(https://www.hdwallpapers.in/download/sunset_scenery-5120x2880.jpg);
+}
+body{
+    background-color: rgb(36, 36, 36);
+}
+.my_email{
+    font-family: 'montserrat', sans-serif;
+    padding-top: 0%;
+    padding-left: 3%;
+    margin-top: -50px;
+    width: 0px;
+}
+.top_bar{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color:  rgb(255, 255, 255);
+    width: 400px;
+    height: 60px;
+    margin-bottom: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.top_bar:hover{
+    background-color:rgb(208, 208, 208);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.Gmail_image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 340px;
+    margin-top: 4px;
+    border-style: dashed double;
+    border-color: red orange purple green;
+}
+.Say_hello_button{
+    margin-left: 800px;
+    margin-top: 200px;
+    border-style: solid;
+    font-size: 200%;
+    color: white;
+    padding-top: 10px;
+    Padding-bottom: 10px;
+    Padding-left: 15px;
+    Padding-right: 15px;
+}
+.JKV:hover{
+    color: yellowgreen;
+}
+.Say_hello_button:hover{
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+.right_side_first_thing {
+    text-align: right;
+    padding-right: 2%;
+    color: white;
+    background-color: red;
+    width: 10px;
+    font-family: 'montserrat', sans-serif;
+    font-size: xx-large;
+    padding-left: 0%;
+}
+
+Body {
+    background-repeat: repeat-x;
+}
+
+.about {
+    padding-bottom: 50%;
+    text-align: left;
+    font-family: 'montserrat', sans-serif;
+    font-size: large;
+    color: white;
+    padding-left: 2%;
+    width: 480px;
+    height: 20px;
+    padding-top: 0%;
+}
+
+.ayd {
+    text-align: left;
+    font-family: 'montserrat', sans-serif;
+    font-size: large;
+    color: white;
+    padding-left: 2%;
+}
+
+span {
+    font-size: xx-large;
+}
+.myimage{
+    margin-left: 800px;
+    margin-top: -225px;
+    border: 30px;
+    border-color: black;
+}
+.second_section{
+    background: white;
+    height: 400px;
+    width: auto;
+    margin-top: 30px;
+    background-image: url(https://png.pngtree.com/back_origin_pic/02/65/79/f28ff4f91e07f8e16d3592115bd6811a.jpg);
+}
+.fa-microchip{
+    color: white;
+    margin-left: 50px;
+}
+.ATALWEBSITE{
+    Color: white;
+    margin-left: 80px;
+    border-style: solid;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ATALWEBSITE:hover{
+    background-color: white;
+    color: black;
+    font: bolder;
+}
+.ATL{
+    font-family: 'montserrat', sans-serif;
+    margin-top: -10px;
+    color: white;
+    margin-left: 100px;
+}
+.S2_heading{
+    font-family: 'montserrat', sans-serif;
+    width: 0px;
+    margin-left: 100px;
+    color: white;
+    font-size: xx-large;
+}
+.section_3{
+    background-color: rgb(5, 200, 5);
+    width: auto;
+    height: 400px;
+}
+.My_channels{
+    font-family: 'montserrat', sans-serif;
+    margin-top: 20px;
+    padding-top: 5%;
+    padding-left: 3%;
+    font-size: xx-large;
+}
+.fa-youtube{
+    color: red;
+}
+.C1{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.C1t1{
+    font-family: 'montserrat', sans-serif;
+    margin-left: 120px;
+    margin-top: -60px;
+}
+.C1t2:hover{
+    color: black;
+}
+.YT{
+    margin-left: 800px;
+    margin-top: -307px;
+    width: 377px;
+    height: 420px;
+}
+.End_bar{
+    Background-color: rgb(0, 186, 186);
+    width: auto;
+    height: 100px;
+    background-image: url(https://i.pinimg.com/originals/33/31/60/3331609c592e27d61e9d9460f3014efc.jpg);
+}
+.Git{
+    text-align: center;
+    margin-left: 570px;
+    font-family: sans;
+    margin-top: 40px;
+    position: relative;
+    position: absolute;
+    font-size: x-large;
+}
+.Git:hover{
+    text-decoration: underline;
+}
+.code{
+    text-align: center;
+    margin-left: 670px;
+    font-family: sans;
+    margin-top: 40px;
+    position: relative;
+    position: absolute;
+    font-size: x-large;
+}
+.code:hover{
+    text-decoration: underline;
+}
+
